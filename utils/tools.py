@@ -1,11 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Yongheng Zhang
-Date: 2023-10-13 14:24:40
-LastEditTime: 2024-6-4 16:47:56
-Description: 
-
-'''
 import json
 import os
 import time

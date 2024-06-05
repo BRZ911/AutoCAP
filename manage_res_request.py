@@ -1,11 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Qiguang Chen
-Date: 2023-12-03 10:17:10
-LastEditTime: 2023-12-23 15:41:23
-Description: 
-
-'''
 from utils.datasets import MGSM
 
 INPUT_DIR = "mgsm/input"

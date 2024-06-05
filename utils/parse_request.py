@@ -1,11 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Qiguang Chen
-Date: 2023-07-07 11:34:07
-LastEditTime: 2023-12-03 11:59:16
-Description: 
-
-'''
 import json
 import os
 import re

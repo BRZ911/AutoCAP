@@ -1,16 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Qiguang Chen
-Date: 2023-12-03 10:38:43
-LastEditTime: 2023-12-21 00:17:09
-Description: 
-
-'''
-
-# class RequestData():
-#     def __init__(self, model="gpt-3.5-turbo", max_tokens=2048) -> None:
-#         self.data = {"model": model, "messages": [{"role": "user", "content": inputs}], "metadata": {"row_id": i}, : 2048})
-
 import json
 import os
 

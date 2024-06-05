@@ -1,11 +1,3 @@
-<!--
- * @Author: Qiguang Chen
- * @LastEditors: Yongheng Zhang
- * @Date: 2023-12-23 15:40:21
- * @LastEditTime: 2024-6-4 6:51:03
- * @Description: 
- * 
--->
 # AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought
 
 

@@ -1,12 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Qiguang Chen
-Date: 2023-10-13 14:34:55
-LastEdiosime: 2023-10-13 14:35:00
-Description: 
-
-'''
-
 import os
 import re
 

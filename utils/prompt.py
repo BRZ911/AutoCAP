@@ -1,11 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Qiguang Chen
-Date: 2023-12-03 10:46:18
-LastEditTime: 2023-12-12 15:47:27
-Description: 
-
-'''
 class LanguageChoicePrompt():
     def __init__(self) -> None:
         self.prompt_template = \

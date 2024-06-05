@@ -1,10 +1,3 @@
-'''
-Author: Qiguang Chen
-LastEditors: Yongheng Zhang
-Date: 2023-05-22 17:58:08
-LastEditTime: 2024-6-4 16:47:56
-Description: 
-'''
 import fire
 from utils.auto_clsp_metric import compute_result as mm
 from utils.choice_metric import compute_result as cm
