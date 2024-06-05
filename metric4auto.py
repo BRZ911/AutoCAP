@@ -110,7 +110,7 @@ def main(
     if dataset_name == "mgsm":
         compute_fn = mm
     else:
-        compute_fn = cm # 还没适配
+        compute_fn = cm 
     
     output_data = MGSMAutoCLSPOutput()
     output_data.load_from_merge(SELECTION_PATH, data_path)
