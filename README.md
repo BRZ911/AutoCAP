@@ -14,6 +14,13 @@
 </div>
 The overall workflow of AutoCAP, which consist of Automatic Language Selection Prompting and Automatic Weight Allocation Prompting.
 
+## Preparation steps: environment installation
+Environment installation command:
+```python
+pip install -r requirements.txt
+```
+
+
 ## 💻 Stage 1: Automatic Language Selection Prompting
 First modify the output path /temperature in `manage_res_request.py`:
 ```python
