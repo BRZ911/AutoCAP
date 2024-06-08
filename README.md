@@ -58,7 +58,12 @@ Run the following command to request Automatic Language Selection Prompting and 
 python metric4auto.py
 ```
 
-## 📌 Model Performance
+## 💯 Model Performance
 <div>
 <img src="./img/results.png" width="100%">
 </div>
+
+
+## 💬 Contact
+
+Please create Github issues here or email [Yongheng Zhang](mailto:zyhbrz@gmail.com) or [Qiguang Chen](mailto:charleschen2333@gmail.com) or [Libo Qin](mailto:lbqin@csu.edu.cn) if you have any questions or suggestions.
