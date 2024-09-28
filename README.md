@@ -7,7 +7,7 @@
 </div>
 
 \
-📷 This is the code repository for the paper: AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought.
+📷 This is the code repository for the paper: AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought. **ACL 2024 Findings***.[[PDF]](https://aclanthology.org/2024.findings-acl.546.pdf) 
 
 <div>
 <img src="./img/framework.png" width="100%">
@@ -67,3 +67,23 @@ python metric4auto.py
 ## 💬 Contact
 
 Please create Github issues here or email [Yongheng Zhang](mailto:zyhbrz@gmail.com) or [Qiguang Chen](mailto:charleschen2333@gmail.com) or [Libo Qin](mailto:lbqin@csu.edu.cn) if you have any questions or suggestions.
+
+## 📲 Reference
+
+<pre>
+@inproceedings{zhang-etal-2024-autocap,
+    title = "{A}uto{CAP}: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought",
+    author = "Zhang, Yongheng  and
+      Chen, Qiguang  and
+      Li, Min  and
+      Che, Wanxiang  and
+      Qin, Libo",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.546",
+    doi = "10.18653/v1/2024.findings-acl.546",
+    pages = "9191--9200",
+}
+</pre>
