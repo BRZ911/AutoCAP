@@ -7,7 +7,7 @@
 </div>
 
 \
-📷 This is the code repository for the paper: AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought. **ACL 2024 Findings***.[[PDF]](https://aclanthology.org/2024.findings-acl.546.pdf) 
+📷 This is the code repository for the paper: AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought. **ACL 2024 Findings**.[[PDF]](https://aclanthology.org/2024.findings-acl.546.pdf) 
 
 <div>
 <img src="./img/framework.png" width="100%">
